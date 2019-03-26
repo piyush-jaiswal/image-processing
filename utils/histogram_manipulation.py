@@ -17,6 +17,6 @@ def apply_clahe(img, clipLimit=2.0, tileGridSize=(8,8)):
 
 
 if __name__ == '__main__':
-    img = imread('/home/jaiswalp/Documents/problems/sample/try.jpg')
+    img = imread('')
     clahe = apply_clahe(img)
-    imsave('/home/jaiswalp/Documents/problems/sample/try_clahe.jpg', clahe)
+    imsave('', clahe)
