@@ -1,5 +1,5 @@
 # Problem
-Image with a uniform background with diamond as the foregound. Extract the diamond from the image.
+Image with a uniform background with diamond as the foreground. Extract the diamond from the image.
 
 ## Sample images
 <table>
